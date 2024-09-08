@@ -1,6 +1,6 @@
 # Resort Reviews Analysis
 ### Dashboard
-![alt text](C:\Users\LENOVO\Desktop\Learn\Projects\Hotel review analysis\Dashboard.JPG)
+![image](https://github.com/user-attachments/assets/e6a4eb05-5d56-490a-954b-631e9d35830b)
 
 ## Data Sources
 Excel file
