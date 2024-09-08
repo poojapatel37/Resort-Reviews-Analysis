@@ -1,6 +1,7 @@
 # Resort Reviews Analysis
 ### Dashboard
-<img src="C:\Users\LENOVO\Desktop\Learn\Projects\Hotel review analysis\Dashboard.JPG">
+![image](C:\Users\LENOVO\Desktop\Learn\Projects\Hotel review analysis\Dashboard.JPG)
+
 ## Data Sources
 Excel file
 
