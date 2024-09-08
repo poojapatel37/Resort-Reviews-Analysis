@@ -1,11 +1,11 @@
 # Resort Reviews Analysis
 ### Dashboard
-<img src=""C:\Users\LENOVO\Desktop\Learn\Projects\Hotel review analysis\Dashboard.JPG"">
+<img src="C:\Users\LENOVO\Desktop\Learn\Projects\Hotel review analysis\Dashboard.JPG">
 ## Data Sources
 Excel file
 
 ## Tools
-Excel,Python,Sentiment Analysis
+Excel, Python, Sentiment Analysis
 
 ## Data Cleaning/Preparation
 - Removed nulls and reviews in languages other than English.
